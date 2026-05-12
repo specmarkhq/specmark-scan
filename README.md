@@ -1,3 +1,7 @@
+> **Note:** This is Specmark's fork of [zizmor](https://github.com/woodruffw/zizmor). We maintain it to ship product-specific audits on a predictable release cadence. Upstream is tracked via the `upstream` remote; changes flow both ways where possible. Runtime behavior is unchanged from upstream except where explicitly documented.
+
+---
+
 # 🌈 zizmor
 
 [![zizmor](https://img.shields.io/badge/%F0%9F%8C%88-zizmor-white?labelColor=white)](https://zizmor.sh/)
